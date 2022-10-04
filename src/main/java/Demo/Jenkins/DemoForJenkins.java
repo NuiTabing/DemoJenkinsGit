@@ -6,6 +6,7 @@ public class DemoForJenkins {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello world!");
+		System.out.println("Hello Tuesday!");
 
 	}
 
