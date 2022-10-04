@@ -7,6 +7,7 @@ public class DemoForJenkins {
 		
 		System.out.println("Hello world!");
 		System.out.println("Hello Tuesday!");
+		System.out.println("Have a nice day!");
 
 	}
 
